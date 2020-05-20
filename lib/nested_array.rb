@@ -30,11 +30,11 @@ def assembled_matrix
       "Eggplant"
     ],
     [
-      "Grapefruit",
-      "Pineapple",
-      "Oranges",
-      "Watermelon",
-      "Eggplant"
+      "Strawberries",
+      "Potatoes",
+      "Grapes",
+      "Avocadoes",
+      "Asparagus"
     ]
   ]
 end
